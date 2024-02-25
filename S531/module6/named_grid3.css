@@ -26,7 +26,7 @@
 
         footer {
             grid-area: footer;
-            background-color: blue;
+            background-color: orange;
         }
 
         .grid-container {
